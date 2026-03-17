@@ -1,0 +1,202 @@
+{
+    "P001": {
+        "risk_score": 0.87,
+        "risk_category": "High"
+    },
+    "P002": {
+        "risk_score": 0.34,
+        "risk_category": "Low"
+    },
+    "P003": {
+        "risk_score": 0.1,
+        "risk_category": "Low"
+    },
+    "P004": {
+        "risk_score": 0.9,
+        "risk_category": "High"
+    },
+    "P005": {
+        "risk_score": 0.4,
+        "risk_category": "Medium"
+    },
+    "P006": {
+        "risk_score": 0.65,
+        "risk_category": "Medium"
+    },
+    "P007": {
+        "risk_score": 0.22,
+        "risk_category": "Low"
+    },
+    "P008": {
+        "risk_score": 0.78,
+        "risk_category": "Medium"
+    },
+    "P009": {
+        "risk_score": 0.55,
+        "risk_category": "Medium"
+    },
+    "P010": {
+        "risk_score": 0.93,
+        "risk_category": "High"
+    },
+    "P011": {
+        "risk_score": 0.47,
+        "risk_category": "Medium"
+    },
+    "P012": {
+        "risk_score": 0.08,
+        "risk_category": "Low"
+    },
+    "P013": {
+        "risk_score": 0.81,
+        "risk_category": "High"
+    },
+    "P014": {
+        "risk_score": 0.39,
+        "risk_category": "Low"
+    },
+    "P015": {
+        "risk_score": 0.62,
+        "risk_category": "Medium"
+    },
+    "P016": {
+        "risk_score": 0.75,
+        "risk_category": "Medium"
+    },
+    "P017": {
+        "risk_score": 0.15,
+        "risk_category": "Low"
+    },
+    "P018": {
+        "risk_score": 0.88,
+        "risk_category": "High"
+    },
+    "P019": {
+        "risk_score": 0.53,
+        "risk_category": "Medium"
+    },
+    "P020": {
+        "risk_score": 0.3,
+        "risk_category": "Low"
+    },
+    "P021": {
+        "risk_score": 0.72,
+        "risk_category": "Medium"
+    },
+    "P022": {
+        "risk_score": 0.96,
+        "risk_category": "High"
+    },
+    "P023": {
+        "risk_score": 0.44,
+        "risk_category": "Medium"
+    },
+    "P024": {
+        "risk_score": 0.19,
+        "risk_category": "Low"
+    },
+    "P025": {
+        "risk_score": 0.67,
+        "risk_category": "Medium"
+    },
+    "P026": {
+        "risk_score": 0.85,
+        "risk_category": "High"
+    },
+    "P027": {
+        "risk_score": 0.58,
+        "risk_category": "Medium"
+    },
+    "P028": {
+        "risk_score": 0.03,
+        "risk_category": "Low"
+    },
+    "P029": {
+        "risk_score": 0.71,
+        "risk_category": "Medium"
+    },
+    "P030": {
+        "risk_score": 0.91,
+        "risk_category": "High"
+    },
+    "P031": {
+        "risk_score": 0.48,
+        "risk_category": "Medium"
+    },
+    "P032": {
+        "risk_score": 0.25,
+        "risk_category": "Low"
+    },
+    "P033": {
+        "risk_score": 0.8,
+        "risk_category": "Medium"
+    },
+    "P034": {
+        "risk_score": 0.37,
+        "risk_category": "Low"
+    },
+    "P035": {
+        "risk_score": 0.63,
+        "risk_category": "Medium"
+    },
+    "P036": {
+        "risk_score": 0.77,
+        "risk_category": "Medium"
+    },
+    "P037": {
+        "risk_score": 0.12,
+        "risk_category": "Low"
+    },
+    "P038": {
+        "risk_score": 0.82,
+        "risk_category": "High"
+    },
+    "P039": {
+        "risk_score": 0.5,
+        "risk_category": "Medium"
+    },
+    "P040": {
+        "risk_score": 0.28,
+        "risk_category": "Low"
+    },
+    "P041": {
+        "risk_score": 0.69,
+        "risk_category": "Medium"
+    },
+    "P042": {
+        "risk_score": 0.95,
+        "risk_category": "High"
+    },
+    "P043": {
+        "risk_score": 0.42,
+        "risk_category": "Medium"
+    },
+    "P044": {
+        "risk_score": 0.17,
+        "risk_category": "Low"
+    },
+    "P045": {
+        "risk_score": 0.74,
+        "risk_category": "Medium"
+    },
+    "P046": {
+        "risk_score": 0.86,
+        "risk_category": "High"
+    },
+    "P047": {
+        "risk_score": 0.56,
+        "risk_category": "Medium"
+    },
+    "P048": {
+        "risk_score": 0.06,
+        "risk_category": "Low"
+    },
+    "P049": {
+        "risk_score": 0.73,
+        "risk_category": "Medium"
+    },
+    "P050": {
+        "risk_score": 0.92,
+        "risk_category": "High"
+    }
+}
