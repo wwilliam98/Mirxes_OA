@@ -26,7 +26,7 @@
 ## Installation & Setup (TASK 2)
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/wwilliam98/Mirxes_OA.git
     cd Mirxes_OA
     ```
 2.  **Create and activate a virtual environment:**
